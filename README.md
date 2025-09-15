@@ -51,3 +51,6 @@ Dados de vendas de uma empresa de automóveis em Fortaleza no ano de 2024, com b
 
 # Requisitos
 Microsoft Excel 2019 ou superior (recomendado Excel 365)
+
+# Licença
+Este projeto está licenciado sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
